@@ -19,11 +19,11 @@ export const products: Product[] = [
   {
     id: 32,
     name: "No.8 Chambers",
-    slug: "/products/No8.webp",
+    slug: "/products/no8.webp",
     price: 129,
     description:
       "Stay Brave with the 705 Shirt from Ryan Hoffman Collection. Show your bravery and drinks some beer with.",
-    cover: "/products/No8.webp",
+    cover: "/products/no8.webp",
     coverCredits:
       "https://unsplash.com/photos/A7f7XRKgUWc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
