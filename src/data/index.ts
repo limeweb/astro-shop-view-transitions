@@ -47,7 +47,7 @@ export const products: Product[] = [
     price: 59,
     description:
       "Elevate Your Style and Comfort with the Faith Yarn Shoes. Designed to stay cool and dry all day.",
-    cover: "/products//pixel.webp",
+    cover: "/products/pixel.webp",
     coverCredits:
       "https://unsplash.com/photos/Wr0TpKqf26s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
@@ -55,7 +55,7 @@ export const products: Product[] = [
 
   {
     id: 49,
-    name: "Teddy",
+    name: "First Friends",
     slug: "t-shirt-32",
     price: 99,
     description:
