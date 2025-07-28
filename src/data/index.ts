@@ -19,7 +19,7 @@ export const products: Product[] = [
   {
     id: 32,
     name: "No.8 Chambers",
-    slug: "/products/no8.webp",
+    slug: "No.8 Chambers",
     price: 129,
     description:
       "Stay Brave with the 705 Shirt from Ryan Hoffman Collection. Show your bravery and drinks some beer with.",
