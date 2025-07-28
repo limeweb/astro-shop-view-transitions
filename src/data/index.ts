@@ -18,7 +18,7 @@ export interface Product {
 export const products: Product[] = [
   {
     id: 32,
-    name: "No8 Chambers",
+    name: "No.8 Chambers",
     slug: "t-705-shirt-brave",
     price: 129,
     description:
