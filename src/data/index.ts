@@ -1,5 +1,5 @@
 export enum ProductCategory {
-  Shirts = "shirts",
+  Shirts = "projects",
   Pants = "pants",
   Shoes = "shoes",
 }
