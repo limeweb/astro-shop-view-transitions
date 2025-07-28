@@ -18,7 +18,7 @@ export interface Product {
 export const products: Product[] = [
   {
     id: 32,
-    name: "705 Brave",
+    name: "No8 Chambers",
     slug: "t-705-shirt-brave",
     price: 129,
     description:
@@ -30,24 +30,24 @@ export const products: Product[] = [
   },
   {
     id: 18,
-    name: "Haryo Setyadi",
+    name: "Lightwoods Tree Surgery",
     slug: "haryo-setyadi-shirt",
     price: 199,
     description:
-      "Feel the Comfort and Peace of the Haryo Setyadi Shirt white as snow. Don't worry about the stain, it's easy to clean.",
-    cover: "/products/haryo-setyadi-acn5ERAeSb4-unsplash.webp",
+      "Feel the Comfort and Peace of the Lightwoods Tree Surgery Shirt white as snow. Don't worry about the stain, it's easy to clean.",
+    cover: "/tree.webp",
     coverCredits:
       "https://unsplash.com/photos/acn5ERAeSb4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
   },
   {
     id: 21,
-    name: "Faith Yarn T-Shirt",
+    name: "JustPixel",
     slug: "faith-yarn-shirt",
     price: 59,
     description:
       "Elevate Your Style and Comfort with the Faith Yarn Shoes. Designed to stay cool and dry all day.",
-    cover: "/products/faith-yarn-Wr0TpKqf26s-unsplash.webp",
+    cover: "/pixel.webp",
     coverCredits:
       "https://unsplash.com/photos/Wr0TpKqf26s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
@@ -55,12 +55,12 @@ export const products: Product[] = [
 
   {
     id: 49,
-    name: "T-Shirt 705",
+    name: "Teddy",
     slug: "t-shirt-32",
     price: 99,
     description:
       "Stay Cool and Dry with the T-Shirt 705 from Ryan Hoffman Collection. Relax, run, dream.",
-    cover: "/products/ryan-hoffman-6Nub980bI3I-unsplash.webp",
+    cover: "/teddy.webp",
     coverCredits:
       "https://unsplash.com/photos/6Nub980bI3I?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
