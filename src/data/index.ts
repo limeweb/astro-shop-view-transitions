@@ -23,7 +23,7 @@ export const products: Product[] = [
     price: 129,
     description:
       "Stay Brave with the 705 Shirt from Ryan Hoffman Collection. Show your bravery and drinks some beer with.",
-    cover: "/products/ryan-hoffman-A7f7XRKgUWc-unsplash.webp",
+    cover: "/No8.webp",
     coverCredits:
       "https://unsplash.com/photos/A7f7XRKgUWc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
