@@ -31,7 +31,7 @@ export const products: Product[] = [
   {
     id: 18,
     name: "Lightwoods Tree Surgery",
-    slug: "haryo-setyadi-shirt",
+    slug: "Lightwoods Tree Surgery",
     price: 199,
     description:
       "Feel the Comfort and Peace of the Lightwoods Tree Surgery Shirt white as snow. Don't worry about the stain, it's easy to clean.",
@@ -43,10 +43,10 @@ export const products: Product[] = [
   {
     id: 21,
     name: "JustPixel",
-    slug: "faith-yarn-shirt",
+    slug: "JustPixel",
     price: 59,
     description:
-      "Elevate Your Style and Comfort with the Faith Yarn Shoes. Designed to stay cool and dry all day.",
+      "Elevate Your Style and Comfort with the JustPixel Shoes. Designed to stay cool and dry all day.",
     cover: "/products/pixel.webp",
     coverCredits:
       "https://unsplash.com/photos/Wr0TpKqf26s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
@@ -56,7 +56,7 @@ export const products: Product[] = [
   {
     id: 49,
     name: "First Friends",
-    slug: "t-shirt-32",
+    slug: "teddy",
     price: 99,
     description:
       "Stay Cool and Dry with the T-Shirt 705 from Ryan Hoffman Collection. Relax, run, dream.",
