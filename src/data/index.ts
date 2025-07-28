@@ -20,7 +20,7 @@ export const products: Product[] = [
     id: 32,
     name: "No.8 Chambers",
     slug: "No.8 Chambers",
-    price: 129,
+    site: Link,
     description:
       "Stay Brave with the 705 Shirt from Ryan Hoffman Collection. Show your bravery and drinks some beer with.",
     cover: "/products/no8.webp",
@@ -32,7 +32,7 @@ export const products: Product[] = [
     id: 18,
     name: "Lightwoods Tree Surgery",
     slug: "Lightwoods Tree Surgery",
-    price: 199,
+    site: Link,
     description:
       "Feel the Comfort and Peace of the Lightwoods Tree Surgery Shirt white as snow. Don't worry about the stain, it's easy to clean.",
     cover: "/products/tree.webp",
@@ -44,7 +44,7 @@ export const products: Product[] = [
     id: 21,
     name: "JustPixel",
     slug: "JustPixel",
-    price: 59,
+    site: Link,
     description:
       "Elevate Your Style and Comfort with the JustPixel Shoes. Designed to stay cool and dry all day.",
     cover: "/products/pixel.webp",
@@ -57,7 +57,7 @@ export const products: Product[] = [
     id: 49,
     name: "First Friends",
     slug: "teddy",
-    price: 99,
+    site: Link,
     description:
       "Stay Cool and Dry with the T-Shirt 705 from Ryan Hoffman Collection. Relax, run, dream.",
     cover: "/products/teddy.webp",
